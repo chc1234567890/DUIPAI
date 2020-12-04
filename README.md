@@ -1,2 +1,2 @@
-# DUIPAI
-duipai
+- duipai.cpp
+- mk.h
