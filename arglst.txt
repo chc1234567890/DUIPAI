@@ -1,1 +1,0 @@
--dir=D:\chc\ -mk=mk -usr=3 -std=3_s -pause -tl=3000 -mx=2000 -mo=0

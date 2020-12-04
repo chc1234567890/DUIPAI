@@ -1,2 +1,0 @@
-# DUIPAI
-duipai
