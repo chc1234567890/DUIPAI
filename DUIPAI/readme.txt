@@ -1,12 +1,6 @@
-# DUIPAI
-
-## Usage:
-
-```
+﻿Usage:
 duipai [-mo=MODE] [-dir=DIRECTORY] [-mk=GENERATOR] -usr=USER_PROGRAM [-std=STANDARD_PROGRAM] [-mx=MAX_TEST_CASES] [-tl=TIME_LIMIT] [-nd=NEED_COMPILE] [-o2=OPTIMIZATION] [-chk=SPECIAL_JUDGE] [-in=INPUT_FILE] [-out=OUTPUT_FILE] [-token=OUTPUT_FILE_TOKEN] [-pause=PAUSE] [-?]
-```
-
-```
+	
 	-mo		评测模式。0为对拍，1为数据测试。
 	-dir		生成器、用户程序、标准程序所在的目录。默认为当前目录。
 	-mk		生成器名称（无后缀名）。默认为空文件。
@@ -29,4 +23,3 @@ duipai [-mo=MODE] [-dir=DIRECTORY] [-mk=GENERATOR] -usr=USER_PROGRAM [-std=STAND
 	  1. 优先从命令行("duipai.exe -xxx=xxx")读入。
 	  2. 如果命令行没有参数，则从默认存参数的文件("arglst.txt")读入。
 	  3. 否则，从标准输入读入。
-```

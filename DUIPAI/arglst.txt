@@ -1,0 +1,1 @@
+-dir=C:\Users\CHC\Desktop\chc\COMP\cpp -mk=mk -usr=1 -std=2 -pause -tl=10000 -mx=2000 -mo=0
